@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Projet-7-React/static/css/main.f2056410.chunk.css",
+    "main.js": "/Projet-7-React/static/js/main.49503f65.chunk.js",
+    "main.js.map": "/Projet-7-React/static/js/main.49503f65.chunk.js.map",
+    "runtime-main.js": "/Projet-7-React/static/js/runtime-main.c2251ac7.js",
+    "runtime-main.js.map": "/Projet-7-React/static/js/runtime-main.c2251ac7.js.map",
+    "static/js/2.79dd56bf.chunk.js": "/Projet-7-React/static/js/2.79dd56bf.chunk.js",
+    "static/js/2.79dd56bf.chunk.js.map": "/Projet-7-React/static/js/2.79dd56bf.chunk.js.map",
+    "index.html": "/Projet-7-React/index.html",
+    "static/css/main.f2056410.chunk.css.map": "/Projet-7-React/static/css/main.f2056410.chunk.css.map",
+    "static/js/2.79dd56bf.chunk.js.LICENSE.txt": "/Projet-7-React/static/js/2.79dd56bf.chunk.js.LICENSE.txt",
+    "static/media/analytics.57089a62.svg": "/Projet-7-React/static/media/analytics.57089a62.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2251ac7.js",
+    "static/js/2.79dd56bf.chunk.js",
+    "static/css/main.f2056410.chunk.css",
+    "static/js/main.49503f65.chunk.js"
+  ]
+}
